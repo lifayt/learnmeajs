@@ -8,7 +8,7 @@ import Message from '../../container/message'
 const Hellopage = () =>
   <div>
     <Message />
-    <HelloButton /> 
+    <HelloButton />
   </div>
 
 export default Hellopage
